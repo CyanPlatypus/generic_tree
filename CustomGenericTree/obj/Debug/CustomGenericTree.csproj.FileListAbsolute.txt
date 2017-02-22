@@ -1,0 +1,9 @@
+D:\C#_visual_studio\GenericTree\CustomGenericTree\obj\Debug\CustomGenericTree.csprojResolveAssemblyReference.cache
+D:\C#_visual_studio\GenericTree\CustomGenericTree\bin\Debug\CustomGenericTree.dll
+D:\C#_visual_studio\GenericTree\CustomGenericTree\bin\Debug\CustomGenericTree.pdb
+D:\C#_visual_studio\GenericTree\CustomGenericTree\bin\Debug\ReadOnlyCollectionsInterfaces.dll
+D:\C#_visual_studio\GenericTree\CustomGenericTree\bin\Debug\System.Collections.Immutable.Net40.dll
+D:\C#_visual_studio\GenericTree\CustomGenericTree\bin\Debug\ReadOnlyCollectionsInterfaces.pdb
+D:\C#_visual_studio\GenericTree\CustomGenericTree\bin\Debug\ReadOnlyCollectionsInterfaces.xml
+D:\C#_visual_studio\GenericTree\CustomGenericTree\obj\Debug\CustomGenericTree.dll
+D:\C#_visual_studio\GenericTree\CustomGenericTree\obj\Debug\CustomGenericTree.pdb
